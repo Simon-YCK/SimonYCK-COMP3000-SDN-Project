@@ -5,7 +5,6 @@ COMP3000 Computing Project (2026/27)
 | | |
 |---|---|
 | **Student** | Yang Chun Kit |
-| **Supervisor** | [Supervisor name - to be added] |
 | **Project management** | [Jira: backlog, sprints, timeline and sprint diary](https://simonyck-comp3000.atlassian.net/jira/software/projects/SCRUM/boards/1) |
 
 ## Project Vision
